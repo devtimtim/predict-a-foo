@@ -66,7 +66,7 @@ function resetButtonStates() {
     buttonClasses.value.foo.incorrect = false;
     buttonClasses.value.bar.correct = false;
     buttonClasses.value.bar.incorrect = false;
-  }, 1000);
+  }, 300);
 }
 </script>
 
